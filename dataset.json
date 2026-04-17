@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Bloomington, Illinois. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Bloomington, Illinois, US",
+  "export_job_id": "3a325d99-afeb-4e94-8363-54e04e2c6c63",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 972239,
+  "location_name": "Bloomington",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bloomington-illinois-us-sample-972239",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/972239/beamstation_972239_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.37,
+  "sample_records": 31,
+  "sample_sha256": "6f157d2d6ad1a4250ea626e67162514e8fc17848ddee483af0af9e8ce6f9c2a6",
+  "sample_size_bytes": 118193,
+  "total_records": 331,
+  "updated_at": "2026-04-09T11:26:36.234542+00:00"
+}
